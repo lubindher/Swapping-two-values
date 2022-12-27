@@ -19,7 +19,20 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
+```
+#Program to swap two values.
+#Developed by: Lubindher
+#RegisterNumber:22009019
+n1=int(input())
+n2=int(input())
+t=n1
+n1=n2
+n2=t
+print("Swapped values are:",n1,n2)
+```
 
+### OUTPUT:
+![output](./Screenshot%202022-12-27%20160942.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
